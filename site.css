@@ -2,4 +2,6 @@ p
 {
     background-color: gray;
     color: white;
+    text-align: center;
+    border: 2px solid white;
 }
